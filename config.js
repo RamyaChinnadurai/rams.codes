@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://ramscodes.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Ramya Chinnadurai',
+  subtitle: 'A passionate programmer and curious learner. Full stack web developer. Experienced in building products from scratch',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,18 +25,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ramya Chinnadurai',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'A passionate programmer and curious learner. Full stack web developer. Experienced in building products from scratch',
     contacts: {
-      email: '',
+      email: 'mailtoramyachinnadurai@gmail.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'code_rams',
+      github: 'RamyaChinnadurai',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'ramyachinnadurai',
       instagram: '#',
       line: '',
       gitlab: '',
