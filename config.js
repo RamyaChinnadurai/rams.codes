@@ -29,21 +29,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'A passionate programmer and curious learner. Full stack web developer. Experienced in building products from scratch',
     contacts: {
-      email: 'mailtoramyachinnadurai@gmail.com',
-      facebook: '#',
-      telegram: '#',
       twitter: 'code_rams',
       github: 'RamyaChinnadurai',
-      rss: '',
-      vkontakte: '',
       linkedin: 'ramyachinnadurai',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
     }
   }
 };
