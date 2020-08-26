@@ -1,13 +1,20 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/cover.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+A passionate full-stack web developer with 3+ years of experience in building the product from scratch. Had an in-depth knowledge in building the startup environment and be a core member in two startups. Currently working and building products that match my interest and passion.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![Ramya Chinnadurai, Full Stack web developer](/media/cover.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+*I am a maverick, who thinks outside the box, refuse to play by the rules, take risks and have a relentless drive to reinvent and revolutionise the system.*
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+My coding journey started from C, Java, PHP and now working on nextjs. Crossed working with languages, tools and platforms like react, node, MongoDB, AWS, firebase, and lot more.
+
+I’m a curious learner and you can see me with my laptop except for my sleeping hours. I have tried out with several things like stories, poets and drawings. If you wish to see my doodlings check out my [blog](https://ramyachinnadurai.in/). 
+
+I’ll share topics related to Javascript, Nodejs, APIs and concepts like UI/UX and product design and development and my learning and experience here and twitter.
+
+Follow me in twitter [@code_rams](https://twitter.com/code_rams) to get connected. 
+Trust me you wont feel bored :p

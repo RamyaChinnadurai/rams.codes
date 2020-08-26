@@ -171,4 +171,4 @@ Finally, my work is done. Here is the link to the [source code](https://github.c
 
 For any doubts, suggestions and feedback contact me in my twitter profile [@code_rams](https://twitter.com/code_rams). Hope you enjoyed and find this useful. Thanks for reading.
 
-*Originally published by [Rams Codes](https://dev.to/code_rams) on [Dev](https://dev.to/code_rams/how-the-delete-operator-can-be-your-super-saver-5c34).*
+*Originally published by [Rams Codes](https://dev.to/code_rams) on [Dev](https://dev.to/code_rams/twitter-dynamic-name-generator-3ka2).*
