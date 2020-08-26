@@ -1,7 +1,7 @@
 {
   "version": "3.0.5",
-  "name": "gatsby-starter-lumen",
-  "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
+  "name": "rams.codes",
+  "description": "Full Stack Developer | A passionate programmer | curious learner ",
   "main": "n/a",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
@@ -16,26 +16,20 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "repository": "https://github.com/RamyaChinnadurai/rams.codes",
+  "author": "Ramya Chinnadurai <mailtoramyachinnadurai@gmail.com>",
   "license": "MIT",
   "keywords": [
-    "gatsby",
-    "graphql",
-    "netlify",
-    "netlify-cms",
-    "pagination",
-    "categories",
-    "tags",
-    "prismjs",
-    "static",
-    "lost",
-    "blog",
-    "minimal",
+    "rams",
+    "ramya",
+    "chinnadurai",
+    "ramya-chinnadurai",
+    "full stack developer",
     "react",
-    "theme",
-    "starter",
-    "disqus"
+    "node",
+    "next",
+    "mongodb",
+    "aws"
   ],
   "dependencies": {
     "bluebird": "^3.7.2",
