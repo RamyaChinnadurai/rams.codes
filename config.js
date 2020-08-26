@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Ramya Chinnadurai',
     photo: '/photo.jpg',
-    bio: 'A passionate programmer and curious learner. Full stack web developer. Experienced in building products from scratch',
+    bio: 'A passionate programmer and curious learner. Full stack web developer. I’ll share topics related to Javascript, Nodejs, APIs and concepts like UI/UX, product design, development with my learning and experience here and twitter.',
     contacts: {
       twitter: 'code_rams',
       github: 'RamyaChinnadurai',

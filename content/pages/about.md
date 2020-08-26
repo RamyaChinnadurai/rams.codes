@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/cover.jpg"
 ---
 
-A passionate full-stack web developer with 3+ years of experience in building the product from scratch. Had an in-depth knowledge in building the startup environment and be a core member in two startups. Currently working and building products that match my interest and passion.
+A passionate full-stack web developer with 3+ years of experience in building the product from scratch. Had an in-depth knowledge in building the startup environment and being a core member in two startups. Currently working and building products that match my interest and passion.
 
 ![Ramya Chinnadurai, Full Stack web developer](/media/cover.jpg)
 
@@ -14,7 +14,7 @@ My coding journey started from C, Java, PHP and now working on nextjs. Crossed w
 
 I’m a curious learner and you can see me with my laptop except for my sleeping hours. I have tried out with several things like stories, poets and drawings. If you wish to see my doodlings check out my [blog](https://ramyachinnadurai.in/). 
 
-I’ll share topics related to Javascript, Nodejs, APIs and concepts like UI/UX and product design and development and my learning and experience here and twitter.
+I’ll share topics related to Javascript, Nodejs, APIs and concepts like UI/UX, product design, development with my learning and experience here and twitter.
 
 Follow me in twitter [@code_rams](https://twitter.com/code_rams) to get connected. 
 Trust me you wont feel bored :p
