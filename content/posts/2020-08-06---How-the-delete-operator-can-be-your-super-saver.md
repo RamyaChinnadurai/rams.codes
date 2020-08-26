@@ -13,7 +13,7 @@ socialImage: "https://dev-to-uploads.s3.amazonaws.com/i/xz80i2w90nf9xk57pvbl.jpe
 ---
 
 # How the delete operator can be your super saver
-
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/xz80i2w90nf9xk57pvbl.jpeg)
 In this article lets discuss how the delete operator in javascript can be your rescuer. I'm jotting down my learning and working experience, so that others may found useful.
 
 Recently I came up with a scenario where there is an array of objects with the different fields of value, and I want to remove the unwanted fields in the object and return it as an object. 
