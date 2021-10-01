@@ -72,7 +72,7 @@ For example: `clamp(45ch, 50%, 75ch)`This allows for the browser to determine th
 
 ### 4. Box Sizing 
 
-One of the God properties of CSS, to overcome your responsive frustrations is box-sizing. It is an essential property for [responsive](https://magora-systems.com/web-development-agency-london/) website development. 
+One of the God properties of CSS, to overcome your responsive frustrations is box-sizing. It is an essential property for responsive website development. 
 
 #### 1. Content box 
 
@@ -144,4 +144,4 @@ Note that we’re still using media queries in this approach, but it’s the <pi
 ---
 
 Thanks for taking your time and reading this article, if you find this useful kindly like this article and follow me [Ramya Chinnadurai](https://twitter.com/code_rams) on Twitter. 
-Feel free to connect with me for sharing your ideas and suggestions.
+Feel free to connect me for sharing your ideas and suggestions.
