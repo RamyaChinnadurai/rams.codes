@@ -143,5 +143,5 @@ Note that we’re still using media queries in this approach, but it’s the <pi
 
 ---
 
-Thanks for taking your time and reading this article, if you like this article kindle like this article and follow [Ramya Chinnadurai](https://twitter.com/code_rams) on Twitter. 
+Thanks for taking your time and reading this article, if you find this useful kindly like this article and follow me [Ramya Chinnadurai](https://twitter.com/code_rams) on Twitter. 
 Feel free to connect with me for sharing your ideas and suggestions.
